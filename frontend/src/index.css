@@ -26,8 +26,11 @@ body {
   margin: 0;
   display: flex;
   place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
+  background-image: url("https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?t=st=1732459173~exp=1732462773~hmac=c5d65969b4c9bc64b925274d059eabf0eb2ef32130ce4f1206beec9905c4ba8f&w=1380") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  
 }
 
 h1 {

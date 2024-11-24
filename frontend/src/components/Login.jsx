@@ -102,7 +102,7 @@ const Login = () => {
         </button>
       </form>
       <p>Default password is 'test123'</p>
-      <p>If you forgot your password, please contact admin.</p>
+      <p>If you forgot your password please contact admin.</p>
     </div>
   );
 };
